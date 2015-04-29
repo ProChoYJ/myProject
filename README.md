@@ -1,4 +1,2 @@
-myProject
+myProject Test
 =========
-php Test
-Angular
